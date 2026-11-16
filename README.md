@@ -3,13 +3,13 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
 
-# 👋 Hi, I'm Mahmoud Ali
+# 👋 Hi, I'm Mahmoud Ali El-Ganzoury
 
 ### 💻 Front-End Developer | Creative Web Developer
 
 **Building Beautiful, Responsive & Modern Websites 🚀**
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width=60%"/>
 
 <br/>
 
