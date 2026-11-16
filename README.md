@@ -1,80 +1,176 @@
-<div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<div align="center">
 
-<details>
-<p><strong><summary>💻 Busy Coding & Vibing To:</summary></strong></p>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
 
-![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)
+# 👋 Hi, I'm Mahmoud Ali
 
-</details>
+### 💻 Front-End Developer | Creative Web Developer
 
-!Profile Views
+**Building Beautiful, Responsive & Modern Websites 🚀**
 
-![GitHub Badge](https://img.shields.io/badge/GitHub-Mahmoud_Ali-black?style=flat&logo=github)
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+
+![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
 
 </div>
 
-<hr>
+---
 
-!tools_I_use !semicolon !HTML5 !CSS3 !JavaScript !TypeScript !React !Next.js !Bootstrap !Tailwind CSS !Sass !jQuery !JSON !NPM !Git !GitHub !VS Code !Figma !Markdown
+## 👨‍💻 About Me
 
-javascript
-// Front-End tools I use
+<img align="right" width="200" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif"/>
 
+- 👋 Hello! I'm **Mahmoud Ali**.
+- 💻 I'm a passionate Front-End Developer.
+- 🌱 Always learning new technologies.
+- 🎨 I love creating beautiful user interfaces.
+- 📱 Focused on responsive and modern web design.
+- ⚡ Turning creative ideas into interactive websites.
+
+<br clear="right"/>
+
+---
+
+## 🚀 Front-End Skills
+
+### 🌐 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
+</p>
+
+### ⚛️ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,jquery,bootstrap,tailwind,sass"/>
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vite"/>
+</p>
+
+---
+
+## 💻 My Tech Stack
+
+```javascript
 const mahmoud = {
-  name: "Mahmoud Ali",
-  role: "Front-End Developer",
+    name: "Mahmoud Ali",
+    role: "Front-End Developer",
 
-  skills: {
-    languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
-    frameworks: ["React", "Next.js"],
-    styling: ["Bootstrap", "Tailwind CSS", "Sass"],
-    tools: ["Git", "GitHub", "VS Code", "Figma"]
-  },
+    languages: [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "TypeScript"
+    ],
 
-  focus: "Building Modern & Responsive Websites"
+    frameworks: [
+        "React.js",
+        "Next.js",
+        "Bootstrap",
+        "Tailwind CSS"
+    ],
+
+    libraries: [
+        "jQuery",
+        "Sass"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Figma",
+        "NPM",
+        "Vite"
+    ],
+
+    focus: [
+        "Responsive Design",
+        "Clean Code",
+        "UI/UX",
+        "Web Performance"
+    ],
+
+    goal: "Building Amazing Web Experiences 🚀"
 };
 
-console.log("Let's build something amazing! 🚀");
+console.log("Let's build something great!");
+```
 
-<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25"/>   I'm a Front-End Developer passionate about web development.
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20"/>   I love building Modern & Responsive Websites.
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/>   Ask me about HTML, CSS, JavaScript & React.
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/>   Interested in UI/UX Design & Front-End Development.
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/>   Fun fact: Every great website starts with a single line of code! ⚡
+---
+
+## 🎯 What I Do
+
+- 🎨 Build modern and attractive user interfaces.
+- 📱 Create fully responsive websites.
+- ⚡ Develop interactive web applications.
+- 🧩 Build reusable React components.
+- 🌐 Convert UI designs into real websites.
+- 🔧 Improve website performance and user experience.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 My Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="32.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="32.5%">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="32.5%">
-
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<details>
-<summary>More GitHub Stats</summary>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" width="100%">
+</div>
 
-</details>
+---
 
-<hr>
+<div align="center">
 
-Code Cycle<br>
+### 💙 Thanks For Visiting My Profile!
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Working"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Surprised"/><br>
+**Code • Create • Innovate • Repeat 🚀**
 
-<h3>💙 Thanks For Visiting My Profile!</h3>
-
-Keep Coding & Building 🚀
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="30%"/>
 
 </div>
